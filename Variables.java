@@ -20,6 +20,10 @@ public class Variables
 		int two = 2;
 		
 		//i changed this
+		
+		//changing it again
+		
+		String whoo = "whooo";
 
 
 		//decimal variables
