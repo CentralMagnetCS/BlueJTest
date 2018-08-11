@@ -1,4 +1,4 @@
-//© A+ Computer Science  -  www.apluscompsci.com
+//ï¿½ A+ Computer Science  -  www.apluscompsci.com
 //Name -
 //Date -
 //Class -
@@ -16,6 +16,10 @@ public class Variables
 
 		//integer variables
 		byte byteOne = 127;
+		
+		int two = 2;
+		
+		//i changed this
 
 
 		//decimal variables
