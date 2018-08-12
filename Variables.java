@@ -9,6 +9,7 @@ public class Variables
     public static void main ( String[] args )
     {
         //please
+        //prettyplease
         //define 1 variable of each of the
         //following data types
         //byte      short       int         long
